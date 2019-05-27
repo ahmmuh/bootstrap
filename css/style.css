@@ -1,0 +1,13 @@
+body{
+    background-image: url('https://i.pinimg.com/originals/d8/45/5f/d8455f775f7819a19b2858a69bb27ae1.jpg');
+    position: fixed; 
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.lead{
+    padding: 100px;
+    text-align: center;
+    color: white;
+    font-size: 40px;
+}
+

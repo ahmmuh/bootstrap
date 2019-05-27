@@ -1,0 +1,26 @@
+.col-sm{
+    background-image: url('https://cdn.dribbble.com/users/627238/screenshots/3939984/medipass_customer_service_avatar_special_staff_i.png');
+    width: 200px;
+    height: 200px;
+    background-repeat: no-repeat;
+    margin: auto;
+    border-radius: 20%;
+    color: #222;
+    text-align: center;
+    padding-top: 10px;
+    text-shadow: 2px 3px 4px green;
+}
+.footer{
+    background-color: #222;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    position: absolute;
+}
+.footer p{
+    color: white;
+    font-size: 14px;
+    text-align: center;
+    padding-right: 10px;
+
+}

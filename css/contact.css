@@ -1,0 +1,23 @@
+.navbar {
+background: #00c3ff;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #ffff1c, #00c3ff);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #ffff1c, #00c3ff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.navbar a{
+    color: black !important;
+}
+.footer{
+    background-color: #222;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    position: absolute;
+}
+.footer p{
+    color: white;
+    font-size: 14px;
+    text-align: center;
+    padding-right: 10px;
+
+}
